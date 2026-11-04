@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: BeBetterHunter
+## Notes: Hunter pet abilities, ranks, tame locations and rare pet maps for WoW Forever.
+## Notes-frFR: Capacités, rangs, lieux d'apprivoisement et cartes des familiers rares.
+## Version: 0.1.0
+## OptionalDeps: Questie, QuestieDB
+
+PetData.lua
+MapOverlays.lua
+Map.lua
+BeBetterHunter.lua
